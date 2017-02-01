@@ -1,0 +1,41 @@
+#quotescointainer{
+    font-size: 25px;
+    color: green;
+}
+
+#border1 {
+    padding-top: 50px;
+    padding-right: 80px;
+    padding-bottom: 50px;
+    padding-left: 80px;    
+    border-color: red;
+    border-width: 45px;
+    border-style: double;
+    margin:0 auto;
+    width: 50%;  
+}
+
+#border2{
+    padding-top: 30px;
+    padding-right: 40px;
+    padding-bottom: 30px;
+    padding-left: 40px;  
+    border-color: blue;
+    border-width: 10px;
+    border-style: dotted;
+    margin-right:auto;
+    margin-left:10px
+    width: 85%;  
+}
+
+#border3{
+    padding-top: 25px;
+    padding-right: 25px;
+    padding-bottom: 25px;
+    padding-left: 25px;  
+    border-color: yellow;
+    border-width: 25px;
+    border-style: groove;
+    margin: 15px;
+    width: 75%; 
+}
